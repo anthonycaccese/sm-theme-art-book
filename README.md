@@ -1,5 +1,6 @@
 # Art Book for SimpleMenu
-A theme for [SimpleMenu](https://github.com/fgl82/simplemenu) based on the look of a coffee table book.  Built and tested with the [Adam image](https://github.com/eduardofilo/RG350_adam_image) on a RG280V handheld.
+A theme for [SimpleMenu](https://github.com/fgl82/simplemenu) based on the look of a coffee table book.  
+Built and tested with the [Adam image](https://github.com/eduardofilo/RG350_adam_image) on a RG280V handheld.
 
 ## Preview
 
